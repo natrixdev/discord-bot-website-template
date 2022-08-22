@@ -7,3 +7,11 @@ Includes a button with a multicolour animation and many other features.
 
 Dashboard friendly.
 
+### Files included in the template:
+```
+template/
+  ↪ index.html
+  ↪ style.css
+  ↪ script.js (to be added)
+ ```
+
